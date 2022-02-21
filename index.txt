@@ -1,0 +1,18 @@
+<html>
+<head>
+
+<meta charset="utf-8" />
+<meta name="description" content="Móveis ecológicos">
+<meta name="keywords" content="horacio moveis">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<h1>Horácio Móveis Ltda</h1>
+<ul>
+<li>Cozinha</li>
+<li>Dormitório</li>
+<li>Sala de Estar</li>
+<li>Outros ambientes</li>
+</ul>
+</body>
+</html>
